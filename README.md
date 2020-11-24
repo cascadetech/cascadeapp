@@ -12,7 +12,7 @@ https://support.cascadetechnologies.com/downloads/win
 https://snapcraft.io/cascade-app
 
 ## Debian build (Ubuntu)
-https://support.cascadetechnologies.com/downloads/deb  	https://snapcraft.io/cascade-app
+https://support.cascadetechnologies.com/downloads/deb
 To install: sudo dpkg -i Cascade_x.x.x_amd64.deb  	
 To remove:  sudo dpkg -r Cascade  	
 
