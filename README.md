@@ -13,10 +13,10 @@ https://snapcraft.io/cascade-app
 
 ## Debian build (Ubuntu)
 https://support.cascadetechnologies.com/downloads/deb
-To install: sudo dpkg -i Cascade_x.x.x_amd64.deb  	
-To remove:  sudo dpkg -r Cascade  	
+- To install: sudo dpkg -i Cascade_x.x.x_amd64.deb
+- To remove:  sudo dpkg -r Cascade  	
 
 ## Redhat build (Fedora/CentOS)	
-http://appupdate.cascadetechnologies.com/downloads/rpm
-To install: sudo rpm -Uvh Cascade-x.x.x.x86_64.rpm  	
-To remove:  sudo rpm -e Cascade  
+https://support.cascadetechnologies.com/downloads/rpm
+- To install: sudo rpm -Uvh Cascade-x.x.x.x86_64.rpm
+- To remove:  sudo rpm -e Cascade  
